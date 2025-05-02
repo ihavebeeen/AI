@@ -2,7 +2,6 @@
 const header = document.querySelector('.header');
 const navLinks = document.querySelectorAll('.nav-links a');
 const faqItems = document.querySelectorAll('.faq-item');
-const earlyAccessForm = document.getElementById('early-access');
 
 // Scroll Animation for Header
 window.addEventListener('scroll', () => {
